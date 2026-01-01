@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.dallinnd.twa",
+        "sha256_cert_fingerprints": ["1B:35:B1:15:0D:4C:DB:90:79:70:FB:FF:A3:5F:B4:DE:17:EA:46:71:CF:8E:A4:50:3B:B8:36:37:3C:B2:AB:ED"]
+      }
+    }]
