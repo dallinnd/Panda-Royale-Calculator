@@ -501,7 +501,7 @@ function toggleMenu() {
                 <button onclick="showOnboarding(1)" class="w-full p-4 bg-blue-600/10 text-blue-500 rounded-2xl font-black text-xs uppercase tracking-widest">
                     Replay Instructions
                 </button>
-                <a href="https://dallinnd.github.io/DandaDoyale/privacy.html" target="_blank" onclick="document.getElementById('menu-overlay').remove()" class="w-full p-4 bg-black/5 text-slate-500 rounded-2xl font-black text-xs uppercase tracking-widest block text-center no-underline">
+                <a href="https://dallinnd.github.io/Panda-Royale-Calculator/privacy.html" target="_blank" onclick="document.getElementById('menu-overlay').remove()" class="w-full p-4 bg-black/5 text-slate-500 rounded-2xl font-black text-xs uppercase tracking-widest block text-center no-underline">
                     Privacy Policy
                 </a>
                 <button onclick="clearHistory()" class="w-full p-4 text-red-500 font-bold text-xs italic opacity-60 hover:opacity-100 transition-opacity">
